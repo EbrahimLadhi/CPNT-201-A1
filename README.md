@@ -6,8 +6,8 @@
 
 ## Responsibilites
 
-*Flying Airplanes.
-   *Cannot Overspeed.
-     *Before Starting plane please put seatbelt.
-  *Cheak for Headlights.
-*Cheack for Weather.
+ *Flying Airplanes.
+    *Cannot Overspeed.
+    *Before Starting plane please put seatbelt.
+    *Cheak for Headlights.
+ *Cheack for Weather.
